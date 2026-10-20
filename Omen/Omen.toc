@@ -13,6 +13,7 @@
 ## X-Donate: PayPal:xinhuan @ gmail DOT com
 ## X-Category: Combat
 ## X-ConfigMode: true
+## X-Nozdor-DemonHunter: 1
 ## SavedVariables: Omen3DB
 ## X-Curse-Packaged-Version: v3.0.9
 ## X-Curse-Project-Name: Omen Threat Meter

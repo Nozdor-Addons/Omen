@@ -105,6 +105,7 @@ local defaults = {
 			FontSize = 10,
 			Classes = {
 				DEATHKNIGHT = true,
+				DEMONHUNTER = true,
 				DRUID = true,
 				HUNTER = true,
 				MAGE = true,
@@ -209,6 +210,7 @@ for i = 1, 40 do
 end
 local showClassesOptionTable = {
 	DEATHKNIGHT = L["DEATHKNIGHT"],
+	DEMONHUNTER = L["DEMONHUNTER"],
 	DRUID = L["DRUID"],
 	HUNTER = L["HUNTER"],
 	MAGE = L["MAGE"],

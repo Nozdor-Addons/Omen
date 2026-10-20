@@ -50,6 +50,7 @@ L["Controls whether the main Omen window can be dragged offscreen"] = "Конт�
 L["Control the font size of the labels"] = "Настройка размера шрифта надписей"
 L["Control the font size of the title text"] = "Настройка размера шрифта заглавного текста"
 L["DEATHKNIGHT"] = "Рыцарь смерти"
+L["DEMONHUNTER"] = "Охотник на демонов"
 L["Disable while tanking"] = "Отключать при танковании"
 L["DISABLE_WHILE_TANKING_DESC"] = "Не выводить предупреждений, если на вас активна Оборонительная стойка, Облик медведя, Праведное неистовство или Власть льда."
 L["Display large numbers in Ks"] = "Отображать большие числа с сокращением К"
