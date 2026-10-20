@@ -125,6 +125,7 @@ L["Show Classes..."] = true
 L["SHOW_CLASSES_DESC"] = "Show Omen threat bars for the following classes. The classes here refer to those people in your party/raid only with the exception of the 'Not In Party' option."
 L["Show bars for these classes"] = true
 L["DEATHKNIGHT"] = "Death Knight"
+L["DEMONHUNTER"] = "Demon Hunter"
 L["DRUID"] = "Druid"
 L["HUNTER"] = "Hunter"
 L["MAGE"] = "Mage"
